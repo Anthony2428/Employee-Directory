@@ -1,0 +1,17 @@
+.card {
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    margin: auto;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+#memberInfo {
+    list-style: none;
+    flex-direction: column;
+    padding: 15px;
+    text-align: center;
+}
+#memberCard {
+    background-color: #4DA8DA;
+}
